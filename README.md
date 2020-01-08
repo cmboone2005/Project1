@@ -18,9 +18,9 @@ Questions/Tasks
   -track gdp by country and cross compare to import/export to find impact of crisis
 
 Tasks:
-1) Munging data, track trends, charts
+1) Munging data, track trends, charts for overall data
 2) grouping by commodity -charting allocation of resources over time
-3) Munging data, track trends, charts
+3) Munging data, track trends, charts for by country data
 4) Coparing data from 2) and 3) against gdp number and charting
 
 Data sets:
